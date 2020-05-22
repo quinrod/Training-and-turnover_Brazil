@@ -37,3 +37,6 @@ Clean and merge large datasets from technical education and labor registry:
 12. prog_TEC_demandante.do -> Preparing a database linking course ID with firm ID
 13. prog_TEC_Preparing_RAIS_v2.do -> Preparing database of labor registry to merge	
 14. prog_TEC_nova_estrategia_merge_v1.do -> Merging course demand and approval with students as well as firms and worker data
+
+# Results
+
