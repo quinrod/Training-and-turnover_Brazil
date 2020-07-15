@@ -1,5 +1,5 @@
 # Training and turnover in Brazil
-Propensity score matching and differences-in-differences
+## Propensity score matching and differences-in-differences
 
 # Findings
 - Difference-in-difference estimates find that workers who enroll in the courses demanded by their employers increase their job tenure by 8.89 months compared to non-enrolled nominees. 
