@@ -43,4 +43,4 @@ Clean and merge large datasets from technical education and labor registry:
 - Once they start working, only half of Bolsa Familia beneciaries remain employed after a year compared to two-thirds of other poor groups. 
 - While education increases the likelihood of getting a job, it does not improve the ability of Bolsa Familia clients to retain it.
 - Jobs created in Brazil are concentrated in i) low skills, ii) micro and small rms and iii) regions where many BF beneciaries reside. 
-- Beneficiaries are not losing their jobs because these disappear. It is the difference in accumulated experience vis-a-vis other poor groups that is making beneciaries lose jobs quicker.
+- Beneficiaries are not losing their jobs because these disappear. It is the difference in accumulated experience vis-à-vis other poor groups that is making beneciaries lose jobs quicker.
