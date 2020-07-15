@@ -37,10 +37,3 @@ Clean and merge large datasets from technical education and labor registry:
 12. prog_TEC_demandante.do -> Preparing a database linking course ID with firm ID
 13. prog_TEC_Preparing_RAIS_v2.do -> Preparing database of labor registry to merge	
 14. prog_TEC_nova_estrategia_merge_v1.do -> Merging course demand and approval with students as well as firms and worker data
-
-# Results
-- Clients of Bolsa Familia (BF), a program that transfers money to the poorest families in the country, are finding jobs faster than other poor groups.
-- Once they start working, only half of Bolsa Familia beneciaries remain employed after a year compared to two-thirds of other poor groups. 
-- While education increases the likelihood of getting a job, it does not improve the ability of Bolsa Familia clients to retain it.
-- Jobs created in Brazil are concentrated in i) low skills, ii) micro and small rms and iii) regions where many BF beneciaries reside. 
-- Beneficiaries are not losing their jobs because these disappear. It is the difference in accumulated experience vis-à-vis other poor groups that is making beneciaries lose jobs quicker.
